@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hola este es el un cambio en main
+=======
+Cambio en rama 2 :)
+>>>>>>> rama2
